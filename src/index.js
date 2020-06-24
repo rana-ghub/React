@@ -42,7 +42,7 @@ class Quiz extends React.Component{
     render(){
         return(
             <div className="container">
-                <div className="title">Quiz</div>
+                <div className="title">Parth is lob</div>
                 {this.state.questionBank.length >0 && this.state.responses < 5 && this.state.questionBank.map(({question, answers, correct, questionId}) => (
                     <QuestionBox question={question} options={answers} key={questionId} selected={answer => this.computeAnswer(answer, correct)}/>
                 )
