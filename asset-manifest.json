@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Parth-Ramndibaaz/static/css/main.0f93a89c.chunk.css",
-    "main.js": "/Parth-Ramndibaaz/static/js/main.d0690349.chunk.js",
-    "main.js.map": "/Parth-Ramndibaaz/static/js/main.d0690349.chunk.js.map",
-    "runtime-main.js": "/Parth-Ramndibaaz/static/js/runtime-main.ca64fd87.js",
-    "runtime-main.js.map": "/Parth-Ramndibaaz/static/js/runtime-main.ca64fd87.js.map",
-    "static/js/2.cf52e512.chunk.js": "/Parth-Ramndibaaz/static/js/2.cf52e512.chunk.js",
-    "static/js/2.cf52e512.chunk.js.map": "/Parth-Ramndibaaz/static/js/2.cf52e512.chunk.js.map",
-    "index.html": "/Parth-Ramndibaaz/index.html",
-    "precache-manifest.8818abf118897fd51eff1d20ca5613e9.js": "/Parth-Ramndibaaz/precache-manifest.8818abf118897fd51eff1d20ca5613e9.js",
-    "service-worker.js": "/Parth-Ramndibaaz/service-worker.js",
-    "static/css/main.0f93a89c.chunk.css.map": "/Parth-Ramndibaaz/static/css/main.0f93a89c.chunk.css.map",
-    "static/js/2.cf52e512.chunk.js.LICENSE.txt": "/Parth-Ramndibaaz/static/js/2.cf52e512.chunk.js.LICENSE.txt"
+    "main.css": "/React/static/css/main.0f93a89c.chunk.css",
+    "main.js": "/React/static/js/main.d0690349.chunk.js",
+    "main.js.map": "/React/static/js/main.d0690349.chunk.js.map",
+    "runtime-main.js": "/React/static/js/runtime-main.ad7ee239.js",
+    "runtime-main.js.map": "/React/static/js/runtime-main.ad7ee239.js.map",
+    "static/js/2.cf52e512.chunk.js": "/React/static/js/2.cf52e512.chunk.js",
+    "static/js/2.cf52e512.chunk.js.map": "/React/static/js/2.cf52e512.chunk.js.map",
+    "index.html": "/React/index.html",
+    "precache-manifest.691bee8537a2b7fd525e2a821b115424.js": "/React/precache-manifest.691bee8537a2b7fd525e2a821b115424.js",
+    "service-worker.js": "/React/service-worker.js",
+    "static/css/main.0f93a89c.chunk.css.map": "/React/static/css/main.0f93a89c.chunk.css.map",
+    "static/js/2.cf52e512.chunk.js.LICENSE.txt": "/React/static/js/2.cf52e512.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca64fd87.js",
+    "static/js/runtime-main.ad7ee239.js",
     "static/js/2.cf52e512.chunk.js",
     "static/css/main.0f93a89c.chunk.css",
     "static/js/main.d0690349.chunk.js"
